@@ -1,5 +1,3 @@
-# MultiThreading
-
 # Randomized Multithreading Dashboard
 A Python-based multithreaded dashboard using Tkinter that displays dynamically updating random numbers. Each label operates within its own number range and refresh interval, demonstrating the power of Python's threading module to handle asynchronous updates without freezing the user interface.
 
@@ -55,6 +53,5 @@ configurations = [
 
 # Output Example
 Below is an example screenshot of the application in action:
-![image](https://github.com/user-attachments/assets/a79bd871-9505-42ad-b508-34843166a935)
-
+![image](https://github.com/user-attachments/assets/022c5b70-cc70-4449-92cb-3e47453cbc72)
 Each label updates independently, ensuring that the dashboard remains responsive and visually appealing.
