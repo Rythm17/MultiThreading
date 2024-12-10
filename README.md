@@ -3,7 +3,9 @@ A Python-based multithreaded dashboard using Tkinter that displays dynamically u
 
 ## Key Features
 ~ Asynchronous Updates: Utilizes multithreading to ensure smooth updates for all labels concurrently.
+
 ~ Customizable Display: Each label has a unique color, range, and refresh rate for random number generation.
+
 ~ User-Friendly Design: Intuitive layout with visually distinct labels to highlight individual settings.
 
 ## Installation Guide
@@ -54,4 +56,5 @@ configurations = [
 # Output Example
 Below is an example screenshot of the application in action:
 ![image](https://github.com/user-attachments/assets/022c5b70-cc70-4449-92cb-3e47453cbc72)
+
 Each label updates independently, ensuring that the dashboard remains responsive and visually appealing.
